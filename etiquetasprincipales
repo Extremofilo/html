@@ -1,0 +1,43 @@
+<!DOCTYPE html>      Tipo de documento
+<html>                      Etiqueta principal
+<head>                     Etiqueta de cabecera
+<meta charset="utf=8">     Reconoce alfabeto español
+<title></title>            Etiqueta de titulo
+</head>                    Cierre de etiqueta de cabecera
+<body>                      Etiqueta de cuerpo
+<h1></h1>                Etiqueta de encabezado más grande             
+<h2></h2>                Etiqueta de encabezado
+<h3></h3>                Etiqueta de encabezado
+<h4></h4>                Etiqueta de encabezado
+<h5></h5>                Etiqueta de encabezado
+<h6></h6>                Etiqueta de encabezado más pequeño
+<p></p>                   Etiqueta de párrafo
+<ol></ol>                  Etiqueta de lista ordenada, enumera una lista
+<ul></ul>                  Etiqueta de lista no ordenada, sin enumerar
+<li></li>                    Etiqueta de viñetas para una lista, se puede poner dentro de <ol> o <ul>
+<img src="imagen"></img>          Insertar imagen
+<a href="web">enlace</a>     Insertar enlace
+<!--  -->                                 Comentarios
+<etiqueta style = "">                                    Atributo que especifica el estilo para un elemento
+<etiqueta style = "font-size: #px">                Tamaño de la fuente
+<etiqueta style = "color: green">                   Color de la fuente
+<etiqueta style = "font-family:Futura">           Tipo de fuente
+<etiqueta style="background-color: brown">   Color de fondo
+<h1 style="text-align:center/rigth/left">          Alineación del texto   
+<strong></strong>     Etiqueta para poner palabras en negrita
+<em></em>           Etiqueta para resaltar palabras
+<table></table>      Etiqueta para almacenar datos tabulares ordenados en filas y columnas
+<thead></thead>    Etiqueta que separa un table entre cabecera y cuerpo
+<th></th>                 Etiqueta que crea celdas de datos de tabla, anidado dentro de <thead>
+<tr></tr>                Etiqueta para crear una fila de tabla, anidado dentro de <table>
+<td></td>               Etiqueta de datos de tabla, se identa después de <tr>
+<table border = "#px"> Atributo para dar tamaño del borde de las celdas
+<tbody></tbody>        Etiqueta de cuerpo de table, va dentro de <table>
+<etiqueta colspan = "#">     Atributo que cubre el ancho de las celdas.
+<etiqueta style="border-collapse:collapse;">   Atributo que quita los bordes exteriores de una tabla.
+<etiqueta style="border-bottom:1px solid black"> Atributo para resaltar el borde vertical interno
+<etiqueta style="border-left:1px solid black"> Atributo para resaltar el borde horizontal interno
+<div></div>          Etiqueta que permite dividir la página en piezas diferentes
+<span><span>      Etiqueta que permite controlar el estilo de la página en partes más pequeñas
+</body>                Cierra de etiqueta de cuerpo
+</html>                 Cierre de etiqueta principal
